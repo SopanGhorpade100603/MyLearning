@@ -1,2 +1,2 @@
-# MyLerning
-my lerning 
+# MyLearning
+my learning 
